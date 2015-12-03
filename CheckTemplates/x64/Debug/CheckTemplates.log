@@ -1,0 +1,48 @@
+﻿生成启动时间为 2015/12/2 15:50:04。
+     1>项目“C:\Users\heqinghui\Desktop\CheckTemplates-e065be6b65904528c0fd7d0734c7850cf1f22798\CheckTemplates\CheckTemplates\CheckTemplates.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Debug\CheckTemplates.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /I"D:\install\profession\Qt\Qt4.8.1-msvc2010\include" /I.\GeneratedFiles\Debug /I"D:\install\profession\Qt\Qt4.8.1-msvc2010\include\QtCore" /I"D:\install\profession\Qt\Qt4.8.1-msvc2010\include\QtGui" /I"D:\install\profession\Qt\Qt4.8.1-msvc2010\include\QtXml" /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_XML_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt checktemplates.cpp mytreewidget.cpp
+         checktemplates.cpp
+         mytreewidget.cpp
+         Generating Code...
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\heqinghui\Desktop\CheckTemplates-e065be6b65904528c0fd7d0734c7850cf1f22798\CheckTemplates\x64\Debug\\CheckTemplates.exe" /NOLOGO /LIBPATH:"D:\install\profession\Qt\Qt4.8.1-msvc2010\lib" qtmaind.lib QtCored4.lib QtGuid4.lib QtXmld4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\CheckTemplates.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\heqinghui\Desktop\CheckTemplates-e065be6b65904528c0fd7d0734c7850cf1f22798\CheckTemplates\x64\Debug\CheckTemplates.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\heqinghui\Desktop\CheckTemplates-e065be6b65904528c0fd7d0734c7850cf1f22798\CheckTemplates\x64\Debug\CheckTemplates.lib" /MACHINE:X64 x64\Debug\Audio.obj
+         x64\Debug\blackframe.obj
+         x64\Debug\checktemplates.obj
+         x64\Debug\ColorFrame.obj
+         x64\Debug\moc_blackframe.obj
+         x64\Debug\moc_checktemplates.obj
+         x64\Debug\moc_ColorFrame.obj
+         x64\Debug\moc_mainwindow.obj
+         x64\Debug\moc_mytreewidget.obj
+         x64\Debug\moc_PeakLevel.obj
+         x64\Debug\moc_Silence.obj
+         x64\Debug\moc_StereoSamePhase.obj
+         x64\Debug\qrc_mainwindow.obj
+         x64\Debug\main.obj
+         x64\Debug\mainwindow.obj
+         x64\Debug\mytreewidget.obj
+         x64\Debug\MyWidget.obj
+         x64\Debug\PeakLevel.obj
+         x64\Debug\Silence.obj
+         x64\Debug\StereoCorrelation.obj
+         x64\Debug\StereoInvertPhase.obj
+         x64\Debug\StereoSamePhase.obj
+         x64\Debug\Video.obj
+         LINK : 没有找到 C:\Users\heqinghui\Desktop\CheckTemplates-e065be6b65904528c0fd7d0734c7850cf1f22798\CheckTemplates\x64\Debug\\CheckTemplates.exe 或上一个增量链接没有生成它；正在执行完全链接
+         CheckTemplates.vcxproj -> C:\Users\heqinghui\Desktop\CheckTemplates-e065be6b65904528c0fd7d0734c7850cf1f22798\CheckTemplates\x64\Debug\CheckTemplates.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\heqinghui\Desktop\CheckTemplates-e065be6b65904528c0fd7d0734c7850cf1f22798\CheckTemplates\x64\Debug\\CheckTemplates.exe;#1" /manifest x64\Debug\CheckTemplates.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\CheckTemplates.unsuccessfulbuild”。
+         正在对“x64\Debug\CheckTemplates.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\heqinghui\Desktop\CheckTemplates-e065be6b65904528c0fd7d0734c7850cf1f22798\CheckTemplates\CheckTemplates\CheckTemplates.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.05

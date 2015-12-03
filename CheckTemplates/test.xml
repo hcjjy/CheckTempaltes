@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CheckTemplates>
+    <QualityCheck>
+        <Video>
+            <BlackFrame>
+                <YBit8>18</YBit8>
+                <Duration>1</Duration>
+                <Percent>99.6</Percent>
+            </BlackFrame>
+        </Video>
+        <Audio>
+            <StereoCorrelation/>
+        </Audio>
+    </QualityCheck>
+</CheckTemplates>
